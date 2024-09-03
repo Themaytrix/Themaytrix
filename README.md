@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raymond Nana Kwame Achia
+- 👋 Hi, I’m Raymond Nana Kwame Achia Obeng
 - 👀 I’m interested in building intelligent systems
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on machine learning open source projects
